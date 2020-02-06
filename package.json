@@ -1,0 +1,22 @@
+{
+  "name": "audio-master-bot",
+  "version": "0.0.1",
+  "description": "Um bot muito foda que transforma os audios chatos da sua tia em texto, assim vc pode dizer que está lendo, mas sabemos que vc não ouve nem lê porra nenhuma, você é muito doido bicho, valoriza sua família seu cuzão! Instale em um grupo e mande o gemidão, porra deve ser muito da hora kkkkkkk. AHHHHHHHHHHHHH AHHHHHHHHHHHHHHHHH AHHHHHHHHHHHHHHHHHH",
+  "main": "index.js",
+  "author": "Edgar Muniz Berlinck <edgar.vv@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "microsoft-cognitiveservices-speech-sdk": "^1.9.1",
+    "node-telegram-bot-api": "^0.40.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
